@@ -1,0 +1,12 @@
+For this assignment, I used several types of polymorphism and inheritance. Starting with inheritance, the first main instance is with the base class of Person. From there Student and Teacher inherate the main properties (i.e first name, last name, adress, etc). The second example is the SchoolClass which is also a base class from ICS. How this works is that each class would have its own file and there would be cetain shared aspects between them. The inherated variables are student lists, teacher info, section name, etc. This is also an abstract base class. 
+
+Next, is polymorphism. There are 3 main instances of polymorphism. The first is with the function isValidId which is used to declare whether the id of a student is valid or not. The second is with the virtual function toString which is used in each class so I decided to make it a virtual function. Finally, is the function printClass in ICS and SchoolClass. I decided to make this one a virtual function since it is used in both and different classes might want to display different information. As well, I used various pointers to base classes which is also an example of polymorphism.
+
+Sources:
+http://www.cplusplus.com/doc/tutorial/files/ 
+https://www.geeksforgeeks.org/virtual-function-cpp/
+https://en.cppreference.com/w/cpp/language/abstract_class
+https://www.tutorialspoint.com/cplusplus/cpp_polymorphism.htm
+http://www.cplusplus.com/doc/tutorial/polymorphism/
+http://www.cplusplus.com/reference/sstream/stringstream/stringstream/
+https://doc.bccnsoft.com/docs/cppreference_en/cppsstream/all.html

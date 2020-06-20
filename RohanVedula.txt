@@ -1,0 +1,8 @@
+Student info:
+	Name: Rohan Vedula
+	Address: 532 Winnards Perch Way
+	ID: s332725308
+	Grade: 11
+Class: ICS4U1
+Mark:67
+Laptop Status: 1
